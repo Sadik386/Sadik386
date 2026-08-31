@@ -75,7 +75,39 @@ I am a **Full-Stack & Backend Software Engineer** specializing in scalable API d
     </tr>
     <tr>
       <td>
-        <b>🏫 Madrasa & School ERP</b><br/>
+        <b>📦 Dokandar & Inventory Management</b><br/>
+        <small><i>Retail POS & Stock Tracking System</i></small><br/>
+        <code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+      </td>
+      <td>
+        • Retail point-of-sale (POS) and inventory tracker for storefront and shop management.<br/>
+        • Real-time stock decrementing, low-inventory alerts, and daily sales balance auditing.<br/>
+        • Type-safe client-server architecture deployed on Railway.
+      </td>
+      <td>
+        <a href="https://dokandar-app-production.up.railway.app/">🌐 <b>Live App</b></a><br/>
+        <a href="https://github.com/Sadik386/dokandar">📦 <b>Dokandar</b></a><br/>
+        <a href="https://github.com/Sadik386/inverntory-management">📦 <b>Inventory</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>⚡ SaleCraft Gadgets & Electronics</b><br/>
+        <small><i>WooCommerce Store & Containerized DevOps</i></small><br/>
+        <code>WordPress</code> <code>WooCommerce</code> <code>Docker Compose</code> <code>MySQL 8.0</code> <code>WP-CLI</code>
+      </td>
+      <td>
+        • Full WooCommerce gadgets & electronics storefront with custom themes, product variations, and cart.<br/>
+        • Containerized local development stack orchestrated via <b>Docker Compose, MySQL 8.0, and phpMyAdmin</b>.<br/>
+        • Automated database backup/import pipelines and WP-CLI environment tooling.
+      </td>
+      <td>
+        <a href="https://web-production-4207.up.railway.app">📦 <b>Repository</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🏫 School & Madrasa Management ERP</b><br/>
         <small><i>Enterprise Academic Management System</i></small><br/>
         <code>React 19</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>JWT RBAC</code>
       </td>
@@ -136,22 +168,6 @@ I am a **Full-Stack & Backend Software Engineer** specializing in scalable API d
         <a href="https://mess-frontend-beryl.vercel.app">🌐 <b>Live Demo</b></a><br/>
         <a href="https://github.com/Sadik386/MESS-frontend">📦 Client Repo</a><br/>
         <a href="https://github.com/Sadik386/mess--backend">⚙️ Server Repo</a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>📦 Dokandar & Inventory Management</b><br/>
-        <small><i>Retail POS & Stock Tracking System</i></small><br/>
-        <code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
-      </td>
-      <td>
-        • Retail point-of-sale (POS) and inventory tracker for storefront management.<br/>
-        • Real-time stock decrementing, low-inventory notifications, and daily sales balance auditing.<br/>
-        • Type-safe client-server architecture built with TypeScript.
-      </td>
-      <td>
-        <a href="https://github.com/Sadik386/dokandar">📦 <b>Dokandar</b></a><br/>
-        <a href="https://github.com/Sadik386/inverntory-management">📦 <b>Inventory</b></a>
       </td>
     </tr>
   </tbody>
