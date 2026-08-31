@@ -16,13 +16,13 @@
 
 ### 💼 What I Do & How I Help You Build Fast
 
-I am a **Full-Stack & Backend Engineer** specializing in robust API design, database architecture, and production-ready web applications. Whether you need a multi-tenant SaaS, an enterprise ERP, or a high-traffic REST backend, I deliver clean, maintainable, and battle-tested code.
+I am a **Full-Stack & Backend Software Engineer** specializing in scalable API design, database architecture, and production-ready web platforms. From enterprise ERPs and multi-tenant e-commerce to emergency dispatch systems, I build resilient, high-speed, and secure applications.
 
-- ⚡ **Backend & API Engineering**: High-throughput Node.js/Express.js & TypeScript architectures with JWT/RBAC security, rate-limiting, and clean modular code.
-- 🗄️ **Database Design & Optimization**: Schema architecture and high-efficiency querying in MongoDB & PostgreSQL.
-- 💻 **Modern Frontend & Full-Stack Apps**: Dynamic, responsive UIs with React 19, Next.js, and Tailwind CSS.
-- 🧩 **Third-Party Integrations**: Cloudinary media pipelines, payment gateways, and custom third-party SDKs.
-- 🧠 **Problem Solving**: 70+ algorithmic problems solved in C++ with deep focus on time/space complexity.
+- ⚡ **Backend & API Architecture**: High-throughput Node.js/Express.js & TypeScript architectures with JWT/RBAC security, rate-limiting, Helmet protection, and clean modular code.
+- 🗄️ **Database Design & Schema Optimization**: Production data modeling in MongoDB (Mongoose) and PostgreSQL with efficient indexes and aggregation pipelines.
+- 💻 **Modern Frontend Engineering**: Interactive, high-performance UIs using React 19, Next.js, Three.js / R3F, Framer Motion, and Tailwind CSS.
+- 🧩 **Cloud & Media Pipelines**: Cloudinary asset processing, secure file upload middleware (Multer), and third-party API integrations.
+- 🧠 **Algorithmic Problem Solving**: 70+ competitive programming challenges solved in C++ with deep focus on time & space complexity.
 
 ---
 
@@ -32,87 +32,126 @@ I am a **Full-Stack & Backend Engineer** specializing in robust API design, data
 
 | Area | Technologies |
 | :--- | :--- |
-| **Backend & APIs** | `Node.js` `Express.js` `TypeScript` `RESTful APIs` `JWT Auth` `RBAC` `Middleware` |
-| **Databases & Cloud** | `MongoDB` `Mongoose` `PostgreSQL` `Supabase` `Cloudinary` `Vercel` `Render` |
-| **Frontend & UI** | `React 19` `Next.js` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `GSAP` `HTML5/CSS3` |
-| **Core & Tools** | `C++ (DSA)` `Git` `GitHub` `Postman` `Vite` `Bun` `npm` |
+| **Backend & APIs** | `Node.js` `Express.js` `TypeScript` `RESTful APIs` `JWT Auth` `RBAC` `Rate Limiting` `Helmet` |
+| **Databases & Cloud** | `MongoDB` `Mongoose` `PostgreSQL` `Supabase` `Cloudinary API` `Vercel` `Render` |
+| **Frontend & 3D** | `React 19` `Next.js` `Three.js` `React Three Fiber` `TypeScript` `Tailwind CSS v4` `Framer Motion` |
+| **Core & Tools** | `C++ (DSA)` `Git` `GitHub` `Postman` `Vite` `Bun` `npm` `Linux` |
 
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mongodb,postgres,react,nextjs,tailwind,cpp,git,github,postman,vite&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mongodb,postgres,react,nextjs,tailwind,threejs,cpp,git,github,postman,vite&theme=dark" alt="Skills" />
 </p>
 
 ---
 
-### 🌟 Featured Production Projects & Case Studies
+### 🌟 Featured Products & Production Case Studies
 
 <table>
   <thead>
     <tr>
-      <th>Project</th>
-      <th>Key Highlights & Architecture</th>
-      <th>Links</th>
+      <th width="32%">Product & Domain</th>
+      <th width="48%">Key Architectural Highlights</th>
+      <th width="20%">Access Links</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
         <b>🛍️ Thelagari BD</b><br/>
-        <i>Production E-Commerce Platform</i>
+        <small><i>Production E-Commerce Platform</i></small><br/>
+        <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Cloudinary</code>
       </td>
       <td>
-        • Live multi-category e-commerce web application with product catalog and shopping cart.<br/>
-        • Customer authentication, order tracking system, and merchant admin dashboard.<br/>
-        • <b>Stack:</b> React, TypeScript, Node.js, Express.js, MongoDB, Tailwind CSS.
+        • Live production multi-category e-commerce engine with product filtering and cart.<br/>
+        • Secure merchant dashboard for inventory CRUD, order tracking, and sales management.<br/>
+        • <b>Backend:</b> Implements JWT authentication, rate limiting, and Cloudinary media pipeline with Multer.
       </td>
       <td>
-        <a href="https://thelagaribd.com">🌐 Live Site</a><br/>
-        <a href="https://github.com/Sadik386/thelagari">📦 Frontend</a> / <a href="https://github.com/Sadik386/thelagari-server">⚙️ Backend</a>
+        <a href="https://thelagaribd.com">🌐 <b>Live Platform</b></a><br/>
+        <a href="https://github.com/Sadik386/thelagari">📦 Client Repo</a><br/>
+        <a href="https://github.com/Sadik386/thelagari-server">⚙️ Server Repo</a>
       </td>
     </tr>
     <tr>
       <td>
         <b>🏫 Madrasa & School ERP</b><br/>
-        <i>Enterprise Academic Management</i>
+        <small><i>Enterprise Academic Management System</i></small><br/>
+        <code>React 19</code> <code>Node.js</code> <code>Express.js</code> <code>MongoDB</code> <code>JWT RBAC</code>
       </td>
       <td>
-        • Full-scale academic ERP with Role-Based Access Control (Admin, Teacher, Student, Parent).<br/>
-        • Attendance tracking, admission workflows, fee invoicing, and grading pipelines.<br/>
-        • <b>Stack:</b> React 19, Node.js, Express.js, MongoDB, JWT Authentication.
+        • Enterprise multi-tenant ERP system featuring Role-Based Access Control (Admin, Teacher, Student, Parent).<br/>
+        • Automated attendance logs, student admission pipeline, fee invoicing, and grade card generation.<br/>
+        • Modular REST architecture designed for horizontal scalability and high data integrity.
       </td>
       <td>
-        <a href="https://github.com/Sadik386/MADRASA-MANAGMENT-SYSTEM">📦 Repository</a>
+        <a href="https://github.com/Sadik386/MADRASA-MANAGMENT-SYSTEM">📦 <b>Repository</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🚨 Mymensingh Community Safety</b><br/>
+        <small><i>Emergency SOS & 3D Incident Dispatch</i></small><br/>
+        <code>React 19</code> <code>Three.js / R3F</code> <code>Framer Motion</code> <code>Express 5</code> <code>MongoDB</code>
+      </td>
+      <td>
+        • Real-time civic security and distress alert dispatch platform.<br/>
+        • Interactive 3D visualization using <b>Three.js & React Three Fiber</b>, styled with Tailwind CSS v4.<br/>
+        • Geo-tagged emergency dispatch, incident verification feed, and SOS alert distribution.
+      </td>
+      <td>
+        <a href="https://github.com/Sadik386/Mymensingh-Community-Safety-System">📦 <b>Client Repo</b></a><br/>
+        <a href="https://github.com/Sadik386/safety-backend">⚙️ <b>Server Repo</b></a>
       </td>
     </tr>
     <tr>
       <td>
         <b>🎨 Pixel Forge</b><br/>
-        <i>Agency Platform & CMS</i>
+        <small><i>Creative Agency CMS & Media Pipeline</i></small><br/>
+        <code>React</code> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Cloudinary</code>
       </td>
       <td>
-        • Modern creative agency showcase with dynamic CRUD dashboard.<br/>
-        • Cloudinary API asset processing pipeline for high-resolution image uploads.<br/>
-        • <b>Stack:</b> React, TypeScript, Node.js, Express.js, Cloudinary, Tailwind CSS.
+        • Dynamic agency platform with comprehensive admin CRUD content management.<br/>
+        • Integrated Cloudinary REST API for automated image optimization, format conversion, and CDN delivery.<br/>
+        • Responsive glassmorphic UI with sub-second page transitions.
       </td>
       <td>
-        <a href="https://pixel-forge-tau.vercel.app">🌐 Live Demo</a><br/>
-        <a href="https://github.com/Sadik386/pixel-forge">📦 Frontend</a> / <a href="https://github.com/Sadik386/pixel-forge-backend">⚙️ Backend</a>
+        <a href="https://pixel-forge-tau.vercel.app">🌐 <b>Live Demo</b></a><br/>
+        <a href="https://github.com/Sadik386/pixel-forge">📦 Client Repo</a><br/>
+        <a href="https://github.com/Sadik386/pixel-forge-backend">⚙️ Server Repo</a>
       </td>
     </tr>
     <tr>
       <td>
-        <b>🏢 MESS Billing & Meal System</b><br/>
-        <i>Hostel & Meal Expense Auditor</i>
+        <b>🏢 MESS Meal & Expense Billing</b><br/>
+        <small><i>Hostel Ledger & Meal Accounting</i></small><br/>
+        <code>React</code> <code>Node.js</code> <code>Express 5</code> <code>MongoDB</code> <code>JWT</code> <code>Bcrypt</code>
       </td>
       <td>
-        • Automated expense splitting, daily meal logging, balance tracking, and monthly member billing.<br/>
-        • Complete audit trails and real-time ledger calculation for shared residences.<br/>
-        • <b>Stack:</b> React, Node.js, Express.js, MongoDB.
+        • Automated multi-tenant billing platform for student residences and shared housing.<br/>
+        • Real-time daily meal calculation, automated expense splitting algorithms, and monthly member statements.<br/>
+        • Complete audit trails and ledger tracking preventing balance disputes.
       </td>
       <td>
-        <a href="https://mess-frontend-beryl.vercel.app">🌐 Live Demo</a><br/>
-        <a href="https://github.com/Sadik386/MESS-frontend">📦 Frontend</a> / <a href="https://github.com/Sadik386/mess--backend">⚙️ Backend</a>
+        <a href="https://mess-frontend-beryl.vercel.app">🌐 <b>Live Demo</b></a><br/>
+        <a href="https://github.com/Sadik386/MESS-frontend">📦 Client Repo</a><br/>
+        <a href="https://github.com/Sadik386/mess--backend">⚙️ Server Repo</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>📦 Dokandar & Inventory Management</b><br/>
+        <small><i>Retail POS & Stock Tracking System</i></small><br/>
+        <code>TypeScript</code> <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+      </td>
+      <td>
+        • Retail point-of-sale (POS) and inventory tracker for storefront management.<br/>
+        • Real-time stock decrementing, low-inventory notifications, and daily sales balance auditing.<br/>
+        • Type-safe client-server architecture built with TypeScript.
+      </td>
+      <td>
+        <a href="https://github.com/Sadik386/dokandar">📦 <b>Dokandar</b></a><br/>
+        <a href="https://github.com/Sadik386/inverntory-management">📦 <b>Inventory</b></a>
       </td>
     </tr>
   </tbody>
